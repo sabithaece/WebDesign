@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-
-/* reset */
-
-*{
-    box-sizing: border-box;
-    padding: 0 ;
-    margin: 0;
-}
-
-/* typograpy */
-
-=======
 /* reset */
 * {
     box-sizing: border-box;
@@ -19,23 +6,14 @@
 }
 
 /* typography */
->>>>>>> 815d1bb9fb07135647804ae0a8e7908d50e331b5
 html {
     font-size: 18px;
 }
 
-<<<<<<< HEAD
-
-body {
-    font-family: 'poppins',sans-serif;
-    line-height: 1.5;
-    color: rgb(60, 58, 71 );
-=======
 body {
     font-family: 'poppins', sans-serif;
     line-height: 1.5;
     color: rgb(60, 58, 71);
->>>>>>> 815d1bb9fb07135647804ae0a8e7908d50e331b5
 }
 
 h1 {
@@ -45,17 +23,10 @@ h1 {
 }
 
 h2 {
-<<<<<<< HEAD
-    font: size 1.5rem; 
-    font-weight: 300;
-    letter-spacing: -1px;
-
-=======
     font-size: 1.57rem;
     font-weight: 300;
     letter-spacing: -1px;
     color: rgba(60, 58, 71, .815);
->>>>>>> 815d1bb9fb07135647804ae0a8e7908d50e331b5
 }
 
 h3 {
@@ -70,17 +41,6 @@ h3.large {
 }
 
 .dark h3 {
-<<<<<<< HEAD
-    color:rgb(250, 245, 245);
-}
-
-h4 {
-
-    font-size:1.2rem ;
-    font-weight: 700;
-    margin-bottom: 1rem;
-
-=======
     color: rgb(250, 245, 245);
 }
 
@@ -88,7 +48,6 @@ h4 {
     font-size: 1.2rem;
     font-weight: 700;
     margin-bottom: 1rem;
->>>>>>> 815d1bb9fb07135647804ae0a8e7908d50e331b5
 }
 
 p {
@@ -97,20 +56,12 @@ p {
 
 p.section-intro {
     font-weight: 200;
-<<<<<<< HEAD
-    letter-spacing: 1px;
-=======
     letter-spacing: 2px;
->>>>>>> 815d1bb9fb07135647804ae0a8e7908d50e331b5
     text-transform: uppercase;
 }
 
 .dark p.section-intro {
-<<<<<<< HEAD
-    color: rgba(250, 245, 245,0.819);
-=======
     color: rgba(250, 245, 245, 0.819);
->>>>>>> 815d1bb9fb07135647804ae0a8e7908d50e331b5
 }
 
 p.number {
@@ -146,10 +97,6 @@ form button {
 /* layout */
 
 /* container */
-<<<<<<< HEAD
-
-=======
->>>>>>> 815d1bb9fb07135647804ae0a8e7908d50e331b5
 .container {
     width: 85%;
     margin: 0 auto;
@@ -157,12 +104,7 @@ form button {
 
 .container.small {
     width: 60%;
-<<<<<<< HEAD
-    margin: 35rem;
-
-=======
     max-width: 35rem;
->>>>>>> 815d1bb9fb07135647804ae0a8e7908d50e331b5
 }
 
 #main-header,
@@ -170,33 +112,17 @@ section {
     padding: 10rem 0;
     text-align: center;
 }
-<<<<<<< HEAD
-section header {
-  margin: bottom 3.5em; 
-}
-
-/* header section */
-
-=======
 
 section header {
     margin-bottom: 3.5rem;
 }
 
 /* header section */
->>>>>>> 815d1bb9fb07135647804ae0a8e7908d50e331b5
 #main-header h1 {
     margin: 5rem 0 1rem;
 }
 
 #main-header h2 {
-<<<<<<< HEAD
-    margin: bottom 6rem;
-}
-
-.btn
-
-=======
     margin-bottom: 6rem;
 }
 
@@ -366,4 +292,3 @@ footer p {
         gap: 2rem;
     }
 }
->>>>>>> 815d1bb9fb07135647804ae0a8e7908d50e331b5
