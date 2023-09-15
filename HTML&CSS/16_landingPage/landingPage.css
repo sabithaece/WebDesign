@@ -120,11 +120,7 @@ p.number {
 }
 
 p.large {
-<<<<<<< HEAD
-    font-size: 2.4rem;
-=======
     font-size: 1.75rem;
->>>>>>> 815d1bb9fb07135647804ae0a8e7908d50e331b5
     font-weight: 200;
     letter-spacing: -1px;
 }
@@ -132,15 +128,11 @@ p.large {
 a {
     font-weight: 700;
     text-decoration: none;
-<<<<<<< HEAD
-    color: rgb(60, 58, 71);
-=======
     color: rgb(159, 118, 87);
 }
 
 a:hover {
     color: rgba(60, 58, 71);
->>>>>>> 815d1bb9fb07135647804ae0a8e7908d50e331b5
 }
 
 form input,
