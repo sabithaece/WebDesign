@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "JAVASCRIPT.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0f1bc47164f89868",
@@ -180,15 +179,15 @@
   },
   "active": "4a4d6b049bdefb31",
   "lastOpenFiles": [
-    "Projects.md",
+    "Intro to HTML & CSS.md",
+    "HTML.md",
     "CSS.md",
     "JAVASCRIPT.md",
-    "HTML.md",
+    "Projects.md",
     "images/brendanEich.jpg.crdownload",
     "images/brendanEich.jpg",
     "images/jsByDefault.png",
     "images/Screenshot 2023-09-08 181913.png",
-    "Intro to HTML & CSS.md",
     "images/mediaQuery.png",
     "images/innerouter.png",
     "images/mediaQuery.md",
