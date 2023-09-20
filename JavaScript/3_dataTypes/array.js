@@ -1,0 +1,1 @@
+let fav_bike= ['ducati' , 'ktm',  'rx_100', 'apache' , 'hero-honda'];
