@@ -13,19 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "JAVASCRIPT.md",
                 "mode": "preview",
+=======
+                "file": "Projects.md",
+                "mode": "source",
+>>>>>>> e92ef4ade53d8163f543279ce4a310dedf8ba556
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "037c5298ebd79b1d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
               }
             }
           }
@@ -96,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVASCRIPT.md",
+                "file": "Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVASCRIPT.md",
+                "file": "Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVASCRIPT.md"
+                "file": "Projects.md"
               }
             }
           },
@@ -170,11 +165,18 @@
   },
   "active": "4a4d6b049bdefb31",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Intro to HTML & CSS.md",
     "HTML.md",
     "CSS.md",
     "JAVASCRIPT.md",
     "Projects.md",
+=======
+    "Projects.md",
+    "JAVASCRIPT.md",
+    "CSS.md",
+    "HTML.md",
+>>>>>>> e92ef4ade53d8163f543279ce4a310dedf8ba556
     "images/brendanEich.jpg.crdownload",
     "images/brendanEich.jpg",
     "images/jsByDefault.png",

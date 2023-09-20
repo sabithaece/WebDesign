@@ -1,4 +1,12 @@
-let my_name = 'sabitha';
-let my_age = '23', joinedCourse = true;
-let hasAnyIdea = null;
-const no_idea = "no";
+// string
+var namayava = 'sabitha';
+
+// number
+let age = 9;
+
+// Boolean
+let married = false,
+    hasjoined = true;
+
+// null
+const haveBrain = null;
