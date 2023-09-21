@@ -10,22 +10,22 @@ body {
 }
 
 header {
-    height: 18rem;
+    height: 16rem;
     display: grid;
     grid-template-columns: 70% auto;
     place-items: start;
 
-    padding: 3rem 0;
-    margin: 2rem 1rem;
+    padding: 1.5rem 0;
+    margin: 1.5rem 0;
 }
 
 header h1 {
-    padding: 1rem;
-    margin: 2rem 1rem;
+    padding: 2rem;
+    margin: 1rem .8rem;
 
     font-family: 'Noto Serif Vithkuqi', sans-serif;
     font-weight: 700;
-    font-size: 5rem;
+    font-size: 4rem;
 }
 
 header .empty {
@@ -64,7 +64,7 @@ header .empty .placeholder {
 }
 
 .container {
-    height: 18rem;
+    height: 16rem;
     display: grid;
     place-items: center;
 }
@@ -94,6 +94,22 @@ div button:hover {
     100% {
         background-position: 4px 0, -4px 100%, 0 -4px, 100% 4px;
     }
+}
+
+div.links {
+    padding-left: 2rem;
+    display: flex;
+    gap: 2rem;
+}
+
+div.links a {
+    font-size: 3rem;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+div.links a:hover {
+    text-decoration: underline;
 }
 
 @media screen and (max-width: 800px) {
